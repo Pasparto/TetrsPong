@@ -24,3 +24,17 @@ The player whose board reaches the position of “¼ of screen” as defined bel
 | UP   | q or Q     | p or P    |
 | DOWN     | a or A       | l or L      |
 | BOMB     | s or S       | k or K      |
+
+**Bomb:**
+Once pressed, the Ball turns into “becoming a Bomb” for 8 game iterations and it changes its color to yellow that indicates its threatening.
+Then after 8 moves, the Ball becomes a “Bomb” and changes its color again, to red, indicating that it is a Bomb.
+
+**Game against the computer:**
+The game allows to play against the computer. The computer have 3 levels:
+(a) BEST (b) GOOD and (C) NOVICE
+=> The BEST level use the Bomb trick wisely, the other levels would not
+
+There are three options to play:
+2 human players
+Human vs. Computer - Human will always be on the left
+2 Computer players
