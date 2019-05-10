@@ -23,3 +23,8 @@ The player whose board reaches the position of “¼ of screen” as defined bel
 | UP | q or Q | p or P |
 | DOWN | a or A | l or L |
 | BOMB | s or S | k or K |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
