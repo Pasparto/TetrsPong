@@ -22,9 +22,10 @@ The player whose board reaches the position of “¼ of screen” as defined bel
 | ---------- | ------------ | ------------ |
 |  |  |  |
 |  |  |  |
-| BOMB | s or S | k or K |
+|  |  |  |
 
 | Directions | Left Player | Right Player |
 | :---         |     :---:      |          ---: |
 | UP   | q or Q     | p or P    |
 | DOWN     | a or A       | l or L      |
+| BOMB     | s or S       | k or K      |
