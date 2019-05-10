@@ -31,9 +31,9 @@ Then after 8 moves, the Ball becomes a “Bomb” and changes its color again, t
 
 **Game against the computer:**
 The game allows to play against the computer. The computer have 3 levels:
-(a) BEST
-(b) GOOD
-(C) NOVICE
+1. BEST
+2. GOOD
+3. NOVICE
 => The BEST level use the Bomb trick wisely, the other levels would not
 
 There are three options to play:
