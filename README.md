@@ -18,13 +18,13 @@ they will be deleted.
 The player whose board reaches the position of “¼ of screen” as defined below - loses.
 
 **Keys:**
-| Directions | Left Player  | Right Player |
+|  |   |  |
 | ---------- | ------------ | ------------ |
-| UP | q or Q | p or P |
-| DOWN | a or A | l or L |
+|  |  |  |
+|  |  |  |
 | BOMB | s or S | k or K |
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Directions | Left Player | Right Player |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| UP   | q or Q     | p or P    |
+| DOWN     | a or A       | l or L      |
