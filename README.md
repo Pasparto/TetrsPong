@@ -19,4 +19,4 @@ The player whose board reaches the position of “¼ of screen” as defined bel
 
 **Keys:**
 Directions | Left Player  | Right Player
------------- | -------------| -------------
+---------- | ------------ | ------------
