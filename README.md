@@ -17,7 +17,7 @@ would gain back five lines (go back five lines) - note: if there are old boards 
 they will be deleted.
 The player whose board reaches the position of “¼ of screen” as defined below - loses.
 
-**Keys:**
+#### **Keys:**
 
 | Directions | Left Player | Right Player |
 | :---         | :---         | :---         |
@@ -25,11 +25,11 @@ The player whose board reaches the position of “¼ of screen” as defined bel
 | DOWN     | a or A       | l or L      |
 | BOMB     | s or S       | k or K      |
 
-**Bomb:**
+#### **Bomb:**
 Once pressed, the Ball turns into “becoming a Bomb” for 8 game iterations and it changes its color to yellow that indicates its threatening.
 Then after 8 moves, the Ball becomes a “Bomb” and changes its color again, to red, indicating that it is a Bomb.
 
-**Game against the computer:**
+#### **Game against the computer:**
 The game allows to play against the computer. The computer have 3 levels:
 1. BEST
 2. GOOD
