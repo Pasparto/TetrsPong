@@ -18,5 +18,5 @@ they will be deleted.
 The player whose board reaches the position of “¼ of screen” as defined below - loses.
 
 **Keys:**
-             | Left Player  | Right Player
+Directions | Left Player  | Right Player
 ------------ | -------------| -------------
